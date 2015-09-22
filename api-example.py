@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Run 'pip install requests' to install the needed requests package.
-If you want to use ipdb as a debugger, 'pip install ipdb'
 Run this file: python api-example.py
 
 Run with debugger from the beginning of the file:
