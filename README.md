@@ -5,8 +5,10 @@ This is a hands on challenge for a Chadev Python meetup presentation on API's an
 SWAPI.CO - The Star Wars API: All the Star Wars data you've ever wanted
 
 TODO
-Get the total number of the films.
-Name of each film.
-Total number of planets in each film.
-Name of each planet in each film.
-Find the longest starship in each film.
+```
+1. Get the total number of the films.
+2. Name of each film.
+3. Total number of planets in each film.
+4. Name of each planet in each film.
+5. Find the longest starship in each film.
+```
