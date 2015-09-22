@@ -4,7 +4,7 @@ This is a hands on challenge for a Chadev Python meetup presentation on API's an
 
 SWAPI.CO - The Star Wars API: All the Star Wars data you've ever wanted
 
-TODO
+##TODO
 ```
 1. Get the total number of the films.
 2. Name of each film.
@@ -12,3 +12,15 @@ TODO
 4. Name of each planet in each film.
 5. Find the longest starship in each film.
 ```
+
+
+# Installation Instructions
+
+#### Create virtual environment
+virtualenv env
+
+#### Activate virtual environment
+source env/bin/activate
+
+#### Install project dependencies
+pip install -r requirements.txt
